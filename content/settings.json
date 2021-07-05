@@ -1,24 +1,24 @@
 {
-  "store_id": 4153,
-  "name": "vestindoomantoloja",
   "domain": "vestindoomantoloja.netlify.app",
-  "short_name": "vestindoomantoloja",
-  "description": "vestindoomantoloja",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#f70202",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cerulean",
+    "custom": "clean-dark"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#000000",
+  "repository": "ecomplus-stores/vestindoomantoloja",
+  "logo": "/img/uploads/whatsapp-image-2021-06-29-at-03.45.55.jpeg",
+  "name": "vestindoomantoloja",
+  "short_name": "vestindoomantoloja",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/og-image.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/vestindoomantoloja"
+  "secondary_color": "#fb0414",
+  "icon": "/img/uploads/og-image.png",
+  "store_id": 4153,
+  "description": "vestindoomantoloja",
+  "large_icon": "/img/uploads/og-image.png"
 }
