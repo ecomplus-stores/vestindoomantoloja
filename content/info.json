@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entrega grátis para todo o Brasil"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele em até 12x sem juros"
   },
   "exchange": {
     "show": true,
-    "text": ""
+    "text": "Conheça nossa política de trocas"
   },
   "promo": {
     "show": true,
-    "text": ""
+    "text": "Personalização grátis"
   }
 }
