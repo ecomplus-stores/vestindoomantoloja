@@ -9,11 +9,7 @@
     "pages": [
       {
         "title": "Sobre nós",
-        "link": "/pages/sobre-nos A Loja Vestindo o Manto é uma loja online de artigos esportivos que oferece uma ampla variedade de produtos. Desde 2020, a Vestindo o Manto vêm crescendo e se tornando uma referência de qualidade e preço justo em artigos esportivos. Inovando em produtos, buscamos exaustivamente a satisfação de nossos clientes e torcedores garantindo sua fidelização."
-      },
-      {
-        "title": "Políticas da Loja",
-        "link": "/posts/politicas-da-loja"
+        "link": "https://vestindoomantoloja.netlify.app/pages/sobre-nos"
       }
     ],
     "phone_wpp": true,
