@@ -1,10 +1,6 @@
 {
   "sections": [
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "product-block",
       "enabled": true
     },
@@ -22,6 +18,10 @@
     },
     {
       "type": "product-specifications",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
       "enabled": true
     }
   ]
