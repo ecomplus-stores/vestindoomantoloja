@@ -53,6 +53,34 @@
       "limit": 12,
       "page": 1,
       "collection_id": "60f1c47715d87c254e2dc046:categories:La Liga:/la-liga"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60f1ca5a15d87c254e2dc6c9:categories:Bundesliga:/bundesliga"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60f1c3ea15d87c254e2dbfce:categories:Série A:/serie-a"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60f1dc3a15d87c254e2dd96c:categories:Liga Argentina:/liga-argentina"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60f1c72215d87c254e2dc357:categories:Eredivise:/eredivise"
     }
   ]
 }
