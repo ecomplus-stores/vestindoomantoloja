@@ -34,9 +34,25 @@
       "enabled": true
     },
     {
-      "type": "page-title",
-      "title": "HOME",
-      "description": "Escolha o seu manto agora!"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60f021f7d505781f1a7ded09:categories:Premier League:/premier-league"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60f1c2c615d87c254e2dbe7d:categories:Ligue 1:/ligue-1"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60f1c47715d87c254e2dc046:categories:La Liga:/la-liga"
     }
   ]
 }
