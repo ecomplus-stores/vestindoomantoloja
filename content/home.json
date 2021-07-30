@@ -26,9 +26,10 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "collection_id": "610367aa33f3ce442f7e9700:categories:VML Todos os produtos:/vml-geral",
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "sort": "views"
     },
     {
       "type": "info-bar",
@@ -39,49 +40,49 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "60f021f7d505781f1a7ded09:categories:Premier League:/premier-league"
+      "collection_id": "6104391f33f3ce442f7f1a6a:categories:Premier League:/premier-league"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "60f1c2c615d87c254e2dbe7d:categories:Ligue 1:/ligue-1"
+      "collection_id": "60f6c5d1cfb89c2ad56f5fa7:categories:VML Agasalhos:/agasalhos"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "60f1c47715d87c254e2dc046:categories:La Liga:/la-liga"
+      "collection_id": "61043a5333f3ce442f7f1b66:categories:Brasileirão:/brasileirao"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "60f1ca5a15d87c254e2dc6c9:categories:Bundesliga:/bundesliga"
+      "collection_id": "6104393b33f3ce442f7f1a7a:categories:Ligue 1:/ligue-1"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "60f1c3ea15d87c254e2dbfce:categories:Série A:/serie-a"
+      "collection_id": "6104395433f3ce442f7f1a8b:categories:Série A:/serie-a"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "60f1dc3a15d87c254e2dd96c:categories:Liga Argentina:/liga-argentina"
+      "collection_id": "6104396f33f3ce442f7f1aa4:categories:La Liga:/la-liga"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "60f1c72215d87c254e2dc357:categories:Eredivise:/eredivise"
+      "collection_id": "610439a433f3ce442f7f1ad1:categories:Bundesliga:/bundesliga"
     }
   ]
 }
