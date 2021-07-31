@@ -47,20 +47,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "60f6c5d1cfb89c2ad56f5fa7:categories:VML Agasalhos:/agasalhos"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "61043a5333f3ce442f7f1b66:categories:Brasileirão:/brasileirao"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "6104393b33f3ce442f7f1a7a:categories:Ligue 1:/ligue-1"
     },
     {
@@ -68,7 +54,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6104395433f3ce442f7f1a8b:categories:Série A:/serie-a"
+      "collection_id": "61043a5333f3ce442f7f1b66:categories:Brasileirão:/brasileirao"
     },
     {
       "type": "collection-shelf",
