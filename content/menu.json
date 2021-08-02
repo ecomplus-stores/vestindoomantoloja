@@ -1,5 +1,18 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "brasileirao",
+    "premier-league",
+    "ligue-1",
+    "serie-a",
+    "la-liga",
+    "bundesliga",
+    "eredivise",
+    "liga-argentina",
+    "copa-america",
+    "eurocopa",
+    "agasalhos",
+    "vml-geral"
+  ],
   "phone_wpp": true,
   "socials": true
 }
