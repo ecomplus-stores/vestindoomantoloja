@@ -1,7 +1,7 @@
 {
   "domain": "vestindoomantoloja.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#f70202",
+  "primary_color": "#ffffff",
   "theme": {
     "bootswatch": "cerulean",
     "custom": "clean-dark"
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/whatsapp-image-2021-06-29-at-03.45.55.jpeg",
   "country_code": "BR",
-  "secondary_color": "#fb0414",
+  "secondary_color": "#fdfcfc",
   "icon": "/img/uploads/whatsapp-image-2021-06-29-at-03.45.55.jpeg",
   "store_id": 4153,
   "description": "vestindoomantoloja",
