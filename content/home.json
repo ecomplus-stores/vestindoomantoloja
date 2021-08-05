@@ -83,6 +83,55 @@
       "limit": 12,
       "page": 1,
       "collection_id": "610439a433f3ce442f7f1ad1:categories:Bundesliga:/bundesliga"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61043a0733f3ce442f7f1b1b:categories:Liga Argentina:/liga-argentina"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "610829bb33f3ce442f80bffb:categories:Eurocopa 2020:/eurocopa"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "610b2aff33f3ce442f835167:categories:Primeira Liga de Portugal:/primeira-liga-de-portugal"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6104398b33f3ce442f7f1abe:categories:Eredivise:/eredivise"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60f6c5d1cfb89c2ad56f5fa7:categories:VML Agasalhos:/agasalhos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "610b2b2533f3ce442f83517c:categories:Seleções Nacionais:/selecoes-nacionais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "610b2b7d33f3ce442f8351b4:categories:Times variados:/times-variados"
     }
   ]
 }
