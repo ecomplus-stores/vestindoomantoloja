@@ -16,8 +16,18 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/premier-league?Premier League",
+      "/la-liga?La Liga",
+      "/brasileirao?Brasileirão",
+      "/serie-a?Série A",
+      "/serie-a?Série A",
+      "/bundesliga?Bundesliga",
+      "/eredivise?Eredivise",
+      "/eurocopa?Eurocopa 2020",
+      "/copa-america?Copa América 2021"
+    ],
+    "random": 0,
     "full_width": false
   },
   "search_input": true
