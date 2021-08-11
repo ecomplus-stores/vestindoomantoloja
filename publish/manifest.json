@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f846072d57d890400d8fe2e7fb2166ae.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.1fce96fdab2ef1570d1caa412e2d78db.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.dff80d48b441e9586db1700e8e7a2cff.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.d24a48fbbd2fb4e56c42a63199cc17ba.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.1f0a89c85575c4873bd47f1095fc9560.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Vestindo o Manto Artigos Esportivos",
+  "short_name": "vestindoomantoloja",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "vestindoomantoloja",
+  "background_color": "#ffffff",
+  "theme_color": "#fafafa"
+}
